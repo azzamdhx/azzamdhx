@@ -1,36 +1,59 @@
-<br clear="both">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=79C0FF&center=true&vCenter=true&random=true&width=435&lines=Abdullah+Azzam" alt="Abdullah Azzam" /></a>
+</p>
 
-<div align="center">
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl2dmoyaDVpamVqcDcyZGJ6N3lyOGg4MmczaXRudWhhZzJ3ZHh3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif"  />
-</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&random=true&width=435&height=20&lines=Designer-Turned-Developer;Full-Stack+Engineer;DevOps+Aspirant;Cloud+Native+Developer;Product+Builder" alt="Typing SVG" /></a>
+</p>
 
-###
+### About Me
+```yaml
+name: Abdullah Azzam
+located_in: Jakarta, Indonesia
+current_job: Software Developer
+company: Dino Agency
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azzamdhx/azzamdhx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azzamdhx/azzamdhx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azzamdhx/azzamdhx/output/pacman-contribution-graph.svg">
-</picture>
+fields_of_interests:
+  [
+    "DevOps Engineering",
+    "Cloud Infrastructure",
+    "Backend Development",
+    "Infrastructure Automation"
+  ]
 
-### -->
+technical_background:
+  [
+    "Junior Web Developer at Dino Agency",
+    "Product Designer at Vapmart",
+    "User Interface Designer at Dribbble",
+    "Digital Marketing at Halim Global Supply"
+  ]
 
-<!-- ## Redmi
+currently_learning: ["Kubernetes & Container Orchestration", "AWS Cloud Services & Architecture", "CI/CD Automation", "Infrastructure as Code"]
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azzamdhx/azzamdhx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azzamdhx/azzamdhx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azzamdhx/azzamdhx/output/pacman-contribution-graph.svg">
-</picture> -->
+### Tech Stack
+[<img src="https://img.shields.io/badge/Go-000000?logo=go" alt="Go" title="Go" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Typescript-000000?logo=typescript" alt="Typescript" title="Typescript" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-000000?logo=python" alt="Python" title="Python" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/ReactJS-000000?logo=react" alt="ReactJS" title="ReactJS" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="Node.js" title="Node.js" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgresQL-000000?logo=postgresql" alt="PostgresQL" title="PostgresQL" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-000000?logo=docker" alt="Docker" title="Docker" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Kubernetes-000000?logo=kubernetes" alt="Kubernetes" title="Kubernetes" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-000000?logo=git" alt="Git" title="Git" height="25" />](#)
 
-<!-- **azzamdhx/azzamdhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+[![GitHub Badge](https://img.shields.io/badge/-azzamdhx-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/azzamdhx)](https://github.com/azzamdhx)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/azzamdhx/)](https://www.linkedin.com/in/azzamdhx/)
+[![Gmail Badge](https://img.shields.io/badge/-azzamdhx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azzamdhx@gmail.com)](mailto:azzamdhx@gmail.com)
