@@ -10,7 +10,7 @@
 ```yaml
 name: Abdullah Azzam
 located_in: Jakarta, Indonesia
-current_job: Software Developer
+current_job: Software Engineer
 company: Dino Agency
 
 fields_of_interests:
